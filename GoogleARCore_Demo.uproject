@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "GoogleARCore",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "GoogleARCoreServices",
+			"Enabled": true
+		}
+	]
+}
